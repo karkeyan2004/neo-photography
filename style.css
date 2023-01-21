@@ -1,0 +1,77 @@
+*{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+body{
+    background-color:gainsboro;
+}
+#clock{
+    display: flex;
+    background-color: white;
+    
+}
+#backGroundImage{
+    height: 800px;
+    width: 50%;
+    
+}
+#titleName{
+    margin-top:90%;
+    margin-left:20%;
+}
+#titleDescription{
+    color: rgb(179, 174, 174);
+}
+#viewWork{
+    margin-left: 40%;
+    text-decoration: none;
+    color: black;
+    border: 1px solid gainsboro;
+    border-radius: 50px;
+    padding: 5%;
+}
+#ourWork{
+    background-color: rgba(0, 0, 0, 0.534);
+    color: white;
+    width: 80%;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+}
+#firstImage{
+    width: 80%;
+    height: 960px;
+}
+#secondImage{
+    width: 80%;
+    height: 840px;
+}
+#firstImageName{
+    background-color: rgba(226, 210, 210, 0.534);
+    width: 80%;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+}
+#thirdImage{
+    width: 80%;
+    height: 840px;
+}
+#secondImageName{
+    background-color: rgba(226, 210, 210, 0.534);
+    width: 80%;
+    height: 40px;
+    padding-top: 20px;
+    text-align: center;
+}
+#fourthImage{
+    width: 80%;
+    height: 840px;
+}
+#thirdImageName{
+    background-color: rgba(226, 210, 210, 0.534);
+    width: 80%;
+    height: 40px;
+    padding-top: 20px;
+    text-align:center;
+}
